@@ -5,7 +5,8 @@ Suite Teardown                End suite
 
 
 *** Test Cases ***
-Entering A Lead
+Entering A Lead 
+#CRT-Test
     [tags]                    Lead                        Git Repo Exercise
     Appstate                  Home
     LaunchApp                 Sales
